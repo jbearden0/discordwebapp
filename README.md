@@ -1,8 +1,8 @@
 # Discord
 
-Unofficial webapp for Discord with some css tweaks for mobile views.
-This webapp is maintained by James Bearden and is not endorsed by or
-affiliated with Discord.
+Unofficial Ubuntu Touch Webapp for Discord with some css tweaks for
+mobileviews. This webapp is maintained by James Bearden and is not
+endorsed by or affiliated with Discord.
 
 ## Development
 
