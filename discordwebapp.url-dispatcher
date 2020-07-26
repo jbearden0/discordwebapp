@@ -1,0 +1,10 @@
+[
+    {
+        "protocol": "https",
+        "domain-suffix": "www.discord.com"
+    },
+    {
+        "protocol": "http",
+        "domain-suffix": "www.discord.com"
+    }
+]

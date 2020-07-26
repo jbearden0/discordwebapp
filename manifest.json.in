@@ -1,0 +1,16 @@
+{
+    "name": "discordwebapp.nontrivial",
+    "description": "Unofficial Webapp for Discord",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Discord",
+    "hooks": {
+        "discordwebapp": {
+            "apparmor": "discordwebapp.apparmor",
+            "desktop":  "discordwebapp.desktop",
+            "urls": "discordwebapp.url-dispatcher"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "James D Bearden <james@nontrivial.org>",
+    "framework" : "ubuntu-sdk-16.04"
+}
