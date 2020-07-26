@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Discord
+Exec=webapp-container --app-id="discordwebapp.nontrivial" --store-session-cookies --enable-media-hub-audio $@ https://www.discord.com/channels/app
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

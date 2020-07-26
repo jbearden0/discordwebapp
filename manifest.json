@@ -6,8 +6,7 @@
     "hooks": {
         "discordwebapp": {
             "apparmor": "discordwebapp.apparmor",
-            "desktop":  "discordwebapp.desktop",
-            "urls": "discordwebapp.url-dispatcher"
+            "desktop":  "discordwebapp.desktop"
         }
     },
     "version": "1.0.0",

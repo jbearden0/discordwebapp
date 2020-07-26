@@ -1,8 +1,0 @@
-[Desktop Entry]
-_Name=Discord
-Exec=qmlscene --scaling --app-id="discordwebapp.nontrivial" --style="Suru" qml/Main.qml
-Icon=assets/logo.svg
-Terminal=false
-Type=Application
-X-Ubuntu-Touch=true
-X-Ubuntu-Splash-Color=#43286A
