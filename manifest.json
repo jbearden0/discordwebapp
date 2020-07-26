@@ -9,7 +9,7 @@
             "desktop":  "discordwebapp.desktop"
         }
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "maintainer": "James D Bearden <james@nontrivial.org>",
     "framework" : "ubuntu-sdk-16.04"
 }

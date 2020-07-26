@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Discord
-Exec=webapp-container --app-id="discordwebapp.nontrivial" --store-session-cookies --enable-media-hub-audio --webappUrlPatterns=https://discord.com/* $@ https://discord.com/channels/app
+Exec=webapp-container --app-id="discordwebapp.nontrivial" --store-session-cookies --enable-media-hub-audio --enable-back-forward --webappUrlPatterns=https://discord.com/* $@ https://discord.com/channels/app
 Icon=assets/logo.svg
 Terminal=false
 Type=Application
