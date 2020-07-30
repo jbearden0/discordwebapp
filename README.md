@@ -5,7 +5,7 @@ by James Bearden and is not endorsed by or affiliated with Discord.
 
 ## Development
 
-Build and run using [clickable](https://github.com/bhdouglass/clickable).
+Build and run using [clickable](https://gitlab.com/clickable/clickable).
 
 ## License
 
